@@ -1,3 +1,5 @@
+# QUESTION 1: Mortgage Payment Calculator
+
 # Creating MortgagePayment class
 class MortgagePayment:
     # In: The quoted interest rate and amortization period in years
