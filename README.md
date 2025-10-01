@@ -1,2 +1,5 @@
 # FINE3300-2025-A1
 Assignment 1 for FINE3300 including a mortgage payment calculator and currency converter
+Requires python version 3.13.7
+Requires pandas version 2.3.3
+Requires a CSV file with exchange rates listed by dates in descending order
