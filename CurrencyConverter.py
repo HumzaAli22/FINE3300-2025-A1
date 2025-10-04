@@ -18,7 +18,7 @@ class ExchangeRates:
         # Initializing converted amount variable
         self.__converted = 0
 
-        "Checking which currency the user wants to exchange from"
+        # Checking which currency the user wants to exchange from
         if fromCurrency == "CAD":
             # Converting from CAD to USD
             self.__converted = amount / self.rate
